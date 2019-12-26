@@ -44,6 +44,10 @@
     flex-wrap: wrap;
 }
 
+.gallery .item:hover {
+    text-decoration: none;;
+}
+
 .gallery .list:not(.no-hover) .item:hover {
     transform: scale(1.03);
     transition: transform 0.3s;
