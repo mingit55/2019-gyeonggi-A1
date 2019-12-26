@@ -28,6 +28,10 @@
 
 .own-info p { margin-bottom: 5px; }
 
+.own-info .text-muted {
+    font-size: 1em;
+}
+
 .gallery .title {
     font-size: 25px;
     font-weight: bold;
